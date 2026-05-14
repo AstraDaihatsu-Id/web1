@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# TODO: Ganti domain pada baris Sitemap saat website sudah dipublish
+Sitemap: https://example.com/sitemap.xml
+
